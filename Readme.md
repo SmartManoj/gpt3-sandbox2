@@ -2,7 +2,7 @@
 ## Setup
 
 
-Install requirements: pip install -r api/requirements.txt
+Install requirements: pip install -r requirements.txt
 
 Add your secret key to your environment:  OPENAI_KEY=$YOUR_SECRET_KEY
 
