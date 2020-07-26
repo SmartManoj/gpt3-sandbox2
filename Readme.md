@@ -10,6 +10,7 @@ In app.py, add title, context, and examples as dictionary
 
 Run python app.py
 
+## Sample
 ![Sample](https://github.com/SmartManoj/gpt3-sandbox2/blob/master/gpt3.png)
 
 ## Thanks to
